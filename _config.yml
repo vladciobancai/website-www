@@ -2,8 +2,7 @@ title: Vlad Ciobancai Terminal Site
 description: My GitHub Pages site with a console-like theme
 
 remote_theme: b2a3e8/jekyll-theme-console
-style: dark              # or light, hacker, nord
-listen_for_clients_preferred_style: true  # optional: auto-switch based on user OS preference
+style: hacker
 
 plugins:
   - jekyll-remote-theme
